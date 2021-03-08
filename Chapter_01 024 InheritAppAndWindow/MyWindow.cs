@@ -10,10 +10,10 @@ namespace Petzold.InheritAppAndWindow
         { 
             Title = "Inherit App & Window";
         }
-        protected override void OnMouseDown(MouseButtonEventArgs args) //Отслеживаем нажатия мыши 
+        protected override void OnMouseDown(MouseButtonEventArgs args) //запускаем блок кода при нажатии мышки
         { 
             base.OnMouseDown(args);
-            string strMessage/*Строка*/ = string.Format("Window clicked with  {0} button at point ({1})", args.ChangedButton,/*Какая кнопка*/ args.GetPosition(this) /*Позиция нажатия*/); 
+            string strMessage = string.Format("Window clicked with  {0} button at point ({1})", args.ChangedButton,/*Какая кнопка*/ args.GetPosition(this) /*Позиция нажатия*/); 
             MessageBox.Show(strMessage, Title); //Отображает окно сообщения
         } 
     }
