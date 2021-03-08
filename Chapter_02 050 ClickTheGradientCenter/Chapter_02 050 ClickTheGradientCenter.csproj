@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{2EDB5972-6DAD-4AE4-8F8F-B840A839D881}</ProjectGuid>
+    <ProjectGuid>{FEC7FF63-C16E-4519-B2E0-2AC592F31A73}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>Chapter_02_050_ClickTheGradientCenter</RootNamespace>
     <AssemblyName>Chapter_02 050 ClickTheGradientCenter</AssemblyName>
@@ -34,7 +34,6 @@
   </PropertyGroup>
   <ItemGroup>
     <None Include="App.config" />
-    <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ClickTheGradientCenter.cs" />
@@ -50,9 +49,7 @@
     <Reference Include="System.Xaml" />
     <Reference Include="System.Xml" />
     <Reference Include="System.Xml.Linq" />
-    <Reference Include="WindowsBase, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
-      <HintPath>..\WPF_Petzold\packages\WindowsBase.4.6.1055.0\lib\WindowsBase.dll</HintPath>
-    </Reference>
+    <Reference Include="WindowsBase" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
