@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter_02 037 VaryTheBackg
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter_02 050 ClickTheGradientCenter", "..\Chapter_02 050 ClickTheGradientCenter\Chapter_02 050 ClickTheGradientCenter.csproj", "{2EDB5972-6DAD-4AE4-8F8F-B840A839D881}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter_01 020 InheritTheWin", "Chapter_01 020 InheritTheWin\Chapter_01 020 InheritTheWin.csproj", "{05286183-5E49-441B-8432-EC36E24E8557}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{2EDB5972-6DAD-4AE4-8F8F-B840A839D881}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2EDB5972-6DAD-4AE4-8F8F-B840A839D881}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2EDB5972-6DAD-4AE4-8F8F-B840A839D881}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05286183-5E49-441B-8432-EC36E24E8557}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05286183-5E49-441B-8432-EC36E24E8557}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05286183-5E49-441B-8432-EC36E24E8557}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05286183-5E49-441B-8432-EC36E24E8557}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
