@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{05286183-5E49-441B-8432-EC36E24E8557}</ProjectGuid>
+    <ProjectGuid>{226C2B5E-E072-4779-837B-BDEC4F800F69}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>Chapter_01_020_InheritTheWin</RootNamespace>
     <AssemblyName>Chapter_01 020 InheritTheWin</AssemblyName>
@@ -34,6 +34,16 @@
   </PropertyGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="InheritTheWin.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="WindowsBase" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
