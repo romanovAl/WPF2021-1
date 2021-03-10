@@ -18,6 +18,9 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter_01 025 MyApplication", "..\Chapter_01 025 MyApplication\Chapter_01 025 MyApplication.csproj", "{1324466B-D14E-4E4C-BC78-551F1799AB7B}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter_02 048 CircleTheRainbow", "..\Chapter_02 048 CircleTheRainbow\Chapter_02 048 CircleTheRainbow.csproj", "{AD3A23D2-A506-4217-A247-90416AAE5091}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter_02 046 AdjustTheGradient", "..\Chapter_02 046 AdjustTheGradient\Chapter_02 046 AdjustTheGradient.csproj", "{3798119D-20A2-4B2F-BCA2-E91942483A7D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter_01 020 InheritTheWin", "..\Chapter_01 020 InheritTheWin\Chapter_01 020 InheritTheWin.csproj", "{05286183-5E49-441B-8432-EC36E24E8557}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +60,14 @@ Global
 		{AD3A23D2-A506-4217-A247-90416AAE5091}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AD3A23D2-A506-4217-A247-90416AAE5091}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AD3A23D2-A506-4217-A247-90416AAE5091}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3798119D-20A2-4B2F-BCA2-E91942483A7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3798119D-20A2-4B2F-BCA2-E91942483A7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3798119D-20A2-4B2F-BCA2-E91942483A7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3798119D-20A2-4B2F-BCA2-E91942483A7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05286183-5E49-441B-8432-EC36E24E8557}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05286183-5E49-441B-8432-EC36E24E8557}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05286183-5E49-441B-8432-EC36E24E8557}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05286183-5E49-441B-8432-EC36E24E8557}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
