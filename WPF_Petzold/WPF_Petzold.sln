@@ -1,4 +1,3 @@
-﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31019.35
@@ -13,7 +12,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter_01 024 InheritAppAn
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter_02 037 VaryTheBackground", "..\Chapter_02 037 VaryTheBackground\Chapter_02 037 VaryTheBackground.csproj", "{4B3546FE-FC2C-4208-8911-D76D8F106A56}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter_02 050 ClickTheGradientCenter", "..\Chapter_02 050 ClickTheGradientCenter\Chapter_02 050 ClickTheGradientCenter.csproj", "{FEC7FF63-C16E-4519-B2E0-2AC592F31A73}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter_02 050 ClickTheGradientCenter", "..\Chapter_02 050 ClickTheGradientCenter\Chapter_02 050 ClickTheGradientCenter.csproj", "{2EDB5972-6DAD-4AE4-8F8F-B840A839D881}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter_01 025 MyApplication", "..\Chapter_01 025 MyApplication\Chapter_01 025 MyApplication.csproj", "{1324466B-D14E-4E4C-BC78-551F1799AB7B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter_02 048 CircleTheRainbow", "..\Chapter_02 048 CircleTheRainbow\Chapter_02 048 CircleTheRainbow.csproj", "{AD3A23D2-A506-4217-A247-90416AAE5091}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +48,18 @@ Global
 		{FEC7FF63-C16E-4519-B2E0-2AC592F31A73}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FEC7FF63-C16E-4519-B2E0-2AC592F31A73}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FEC7FF63-C16E-4519-B2E0-2AC592F31A73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2EDB5972-6DAD-4AE4-8F8F-B840A839D881}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EDB5972-6DAD-4AE4-8F8F-B840A839D881}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EDB5972-6DAD-4AE4-8F8F-B840A839D881}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EDB5972-6DAD-4AE4-8F8F-B840A839D881}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1324466B-D14E-4E4C-BC78-551F1799AB7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1324466B-D14E-4E4C-BC78-551F1799AB7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1324466B-D14E-4E4C-BC78-551F1799AB7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1324466B-D14E-4E4C-BC78-551F1799AB7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD3A23D2-A506-4217-A247-90416AAE5091}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD3A23D2-A506-4217-A247-90416AAE5091}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD3A23D2-A506-4217-A247-90416AAE5091}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD3A23D2-A506-4217-A247-90416AAE5091}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
