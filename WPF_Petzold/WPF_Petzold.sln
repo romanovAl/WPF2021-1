@@ -24,6 +24,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter_02 042 GradiateTheB
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter_02 048 CircleTheRainbow", "..\Chapter_02 048 CircleTheRainbow\Chapter_02 048 CircleTheRainbow.csproj", "{09D9871C-C1AC-4DFF-AB18-A21193C8859F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter_01 031 TypeYourTitle", "..\Chapter_01 031 TypeYourTitle\Chapter_01 031 TypeYourTitle.csproj", "{18B7BFC2-8541-4DCF-80D0-D1AC7EB49321}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter_02 039 FlipThroughTheBrushes", "..\Chapter_02 039 FlipThroughTheBrushes\Chapter_02 039 FlipThroughTheBrushes.csproj", "{48B0D3F2-9657-49AC-903C-B53EA829F295}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -74,6 +78,14 @@ Global
 		{09D9871C-C1AC-4DFF-AB18-A21193C8859F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{09D9871C-C1AC-4DFF-AB18-A21193C8859F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{09D9871C-C1AC-4DFF-AB18-A21193C8859F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18B7BFC2-8541-4DCF-80D0-D1AC7EB49321}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18B7BFC2-8541-4DCF-80D0-D1AC7EB49321}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18B7BFC2-8541-4DCF-80D0-D1AC7EB49321}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18B7BFC2-8541-4DCF-80D0-D1AC7EB49321}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48B0D3F2-9657-49AC-903C-B53EA829F295}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48B0D3F2-9657-49AC-903C-B53EA829F295}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48B0D3F2-9657-49AC-903C-B53EA829F295}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48B0D3F2-9657-49AC-903C-B53EA829F295}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
