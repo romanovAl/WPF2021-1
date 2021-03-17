@@ -1,13 +1,13 @@
-﻿using System;
-using System.Windows;
+﻿using System; // Cодержит фундаментальные и базовые классы
+using System.Windows; // Предоставляет несколько важных классов базовых элементов WPF
 using System.Windows.Input; // Предоставляет типы для поддержки системы ввода WPF
 using System.Windows.Media; // Предоставляет типы, обеспечивающие интеграцию мультимедийных данных
 
 namespace Petzold.FollowTheRainbow
 {
-    class FollowTheRainbow : Window // Создание класса
+    class FollowTheRainbow : Window // Создание класса FollowTheRainbow, наследника Window
     {
-        [STAThread] // аттрибут, который показывает, что управление программой осуществляется одним главным потоком
+        [STAThread] // атрибут, который показывает, что управление программой осуществляется одним главным потоком
         public static void Main() // точка входа выполняемой программы
         {
             Application app = new Application(); // создание нового приложения
