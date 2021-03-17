@@ -1,19 +1,15 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Configuration;
-using System.Data;
-using System.Linq;
-using System.Threading.Tasks;
 using System.Windows;
+using System.Windows.Input;
 
-namespace Chapter_01_020_InheritTheApp
+namespace Petzold.InheritTheApp
 {
     class InheritTheApp : Application // класс InheritTheApp наследует от Application и переопределяет методы
                                       // OnStartup и OnSessionEnding, определяемые в классе Application
 
     {
-        [STAThread]
-        public static void Main()
+        [STAThread] // аттрибут, который показывает, что управление программой осуществляется одним главным потоком
+        public static void Main() // точка входа
         {
             InheritTheApp app = new InheritTheApp(); // создаётся объект типа InheritTheApp
             app.Run();
