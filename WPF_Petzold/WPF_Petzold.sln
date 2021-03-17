@@ -24,6 +24,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter_02 042 GradiateTheB
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ñhapter_01_22_TrrowWindowParty", "..\Ñhapter_01_22_TrrowWindowParty\Ñhapter_01_22_TrrowWindowParty.csproj", "{B898BE62-0A50-4185-BE00-DE460F5D384D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter_02 048 CircleTheRainbow", "..\Chapter_02 048 CircleTheRainbow\Chapter_02 048 CircleTheRainbow.csproj", "{09D9871C-C1AC-4DFF-AB18-A21193C8859F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -74,6 +76,10 @@ Global
 		{B898BE62-0A50-4185-BE00-DE460F5D384D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B898BE62-0A50-4185-BE00-DE460F5D384D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B898BE62-0A50-4185-BE00-DE460F5D384D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09D9871C-C1AC-4DFF-AB18-A21193C8859F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09D9871C-C1AC-4DFF-AB18-A21193C8859F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09D9871C-C1AC-4DFF-AB18-A21193C8859F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09D9871C-C1AC-4DFF-AB18-A21193C8859F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
