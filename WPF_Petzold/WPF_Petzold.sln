@@ -34,6 +34,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter_01 020 InheritTheAp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter_01 027 InheritTheWin", "..\Chapter_01 027 InheritTheWin\Chapter_01 027 InheritTheWin.csproj", "{226C2B5E-E072-4779-837B-BDEC4F800F69}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter_04 082 ToggleTheButton", "..\Chapter_04 082 ToggleTheButton\Chapter_04 082 ToggleTheButton.csproj", "{E0045A5F-FF9B-442E-9383-D19C7313346E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -104,6 +106,10 @@ Global
 		{226C2B5E-E072-4779-837B-BDEC4F800F69}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{226C2B5E-E072-4779-837B-BDEC4F800F69}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{226C2B5E-E072-4779-837B-BDEC4F800F69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0045A5F-FF9B-442E-9383-D19C7313346E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0045A5F-FF9B-442E-9383-D19C7313346E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0045A5F-FF9B-442E-9383-D19C7313346E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0045A5F-FF9B-442E-9383-D19C7313346E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
