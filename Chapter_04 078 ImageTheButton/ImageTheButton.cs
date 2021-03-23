@@ -12,7 +12,7 @@ using System.Windows.Media.Imaging;
 
 namespace Chapter_04_078_ImageTheButton
 {
-    class ImageTheButton : Window 
+    class ImageTheButton : Window
     {
         [STAThread]  //атрибут для исполнения одопоточной модели
         public static void Main()
@@ -24,8 +24,8 @@ namespace Chapter_04_078_ImageTheButton
         public ImageTheButton() // создаем класс GrowAndShrink  ("макет" окна)
         {
             Title = "Image the button"; // заголовок
-            Uri uri = new Uri(@"C:\GitHub\WPF2021PRO\Chapter_04 078 ImageTheButton\test2.png"); // место хранения фотографии 
-            BitmapImage bitmap = new BitmapImage(uri);  // Инициализирует новый экземпляр класса BitmapImage
+            Uri uri = new Uri(@"......\test.jpg"); // место хранения фотографии 
+            BitmapImage bitmap = new BitmapImage(uri);
             Image img = new Image();  // создание кортики 
             img.Source = bitmap; // присвоение картики картинки
             img.Stretch = Stretch.None; // сохранить исходный размер картинки

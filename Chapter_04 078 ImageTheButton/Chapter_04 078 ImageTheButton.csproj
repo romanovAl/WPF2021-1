@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{723AB29B-B517-42EE-9FE1-E60E4F7B2B5E}</ProjectGuid>
+    <ProjectGuid>{CE1E7CF9-7501-4598-B1C4-1E50044396D8}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>Chapter_04_078_ImageTheButton</RootNamespace>
     <AssemblyName>Chapter_04 078 ImageTheButton</AssemblyName>
@@ -36,13 +36,13 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ImageTheButtoncs.cs" />
-  </ItemGroup>
-  <ItemGroup>
     <Reference Include="PresentationCore" />
     <Reference Include="PresentationFramework" />
     <Reference Include="System" />
     <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ImageTheButton.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
