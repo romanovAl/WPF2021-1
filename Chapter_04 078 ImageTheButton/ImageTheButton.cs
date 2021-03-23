@@ -24,7 +24,7 @@ namespace Chapter_04_078_ImageTheButton
         public ImageTheButton() // создаем класс GrowAndShrink  ("макет" окна)
         {
             Title = "Image the button"; // заголовок
-            Uri uri = new Uri(@"......\test.jpg"); // место хранения фотографии 
+            Uri uri = new Uri(@"C://../test.jpg"); // место хранения фотографии 
             BitmapImage bitmap = new BitmapImage(uri);
             Image img = new Image();  // создание кортики 
             img.Source = bitmap; // присвоение картики картинки

@@ -25,7 +25,7 @@ namespace Chapter_03_061_ShowMyFace
         public ShowMyFace() // создаем класс GrowAndShrink  ("макет" окна)
         {
             Title = "Show My Face"; // заголовок
-            Uri uri = new Uri(@"......\test.jpg"); // место хранения фотографии 
+            Uri uri = new Uri((@"C://../test.jpg")); // место хранения фотографии 
             BitmapImage bitmap = new BitmapImage(uri); // Инициализирует новый экземпляр класса BitmapImage
             Image img = new Image();  // создание кортики 
             img.Source = bitmap; // присвоение картики картинки

@@ -35,7 +35,7 @@ namespace Chapter_05_106_DesignAButton
             stack.Children.Add(ZigZag(10));
 
             //Добавление обьекта Image
-            Uri uri = new Uri(@"......\test.jpg");
+            Uri uri = new Uri((@"C://../test.jpg"));
             BitmapImage bitmap = new BitmapImage(uri);
             Image img = new Image();
             img.Margin = new Thickness(0, 10, 0, 0);
