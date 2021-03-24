@@ -1,0 +1,10 @@
+diff a/WPF_Petzold/WPF_Petzold.sln b/WPF_Petzold/WPF_Petzold.sln	(rejected hunks)
+@@ -12,6 +12,8 @@
+ EndProject
+ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormatTheButton", "..\Chapter_04 077 FormatTheButton\FormatTheButton.csproj", "{5D8D944A-59AB-4A1E-A2E3-7D8F13A461D4}"
+ EndProject
++Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter_03 071 RenderTheGraphic", "..\Chapter_03 071 RenderTheGraphic\Chapter_03 071 RenderTheGraphic.csproj", "{F11BC680-127E-41A7-89DA-6ACD36FCFCFA}"
++EndProject
+ Global
+ 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+ 		Debug|Any CPU = Debug|Any CPU
