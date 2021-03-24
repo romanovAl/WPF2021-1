@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{6C715300-8903-4E9E-95BC-70D6FC8BE967}</ProjectGuid>
+    <ProjectGuid>{8B8F0D05-271F-461F-A4E0-4E90E0A5C826}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Chapter_01_020_InheritTheWin</RootNamespace>
-    <AssemblyName>Chapter_01_020_InheritTheWin</AssemblyName>
+    <RootNamespace>Chapter_01_020_InheritTheApp</RootNamespace>
+    <AssemblyName>Chapter_01_020_InheritTheApp</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -34,6 +34,21 @@
   </PropertyGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="InheritTheApp.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Windows" />
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="WindowsBase" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
