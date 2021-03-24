@@ -34,6 +34,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter_01 020 InheritTheAp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter_01 027 InheritTheWin", "..\Chapter_01 027 InheritTheWin\Chapter_01 027 InheritTheWin.csproj", "{226C2B5E-E072-4779-837B-BDEC4F800F69}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter_04 077 FormatTheButton", "..\Chapter_04 077 FormatTheButton\Chapter_04 077 FormatTheButton.csproj", "{5D8D944A-59AB-4A1E-A2E3-7D8F13A461D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter_03 071 RenderTheGraphic", "..\Chapter_03 071 RenderTheGraphic\Chapter_03 071 RenderTheGraphic.csproj", "{F11BC680-127E-41A7-89DA-6ACD36FCFCFA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -104,6 +108,14 @@ Global
 		{226C2B5E-E072-4779-837B-BDEC4F800F69}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{226C2B5E-E072-4779-837B-BDEC4F800F69}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{226C2B5E-E072-4779-837B-BDEC4F800F69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D8D944A-59AB-4A1E-A2E3-7D8F13A461D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D8D944A-59AB-4A1E-A2E3-7D8F13A461D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D8D944A-59AB-4A1E-A2E3-7D8F13A461D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D8D944A-59AB-4A1E-A2E3-7D8F13A461D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F11BC680-127E-41A7-89DA-6ACD36FCFCFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F11BC680-127E-41A7-89DA-6ACD36FCFCFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F11BC680-127E-41A7-89DA-6ACD36FCFCFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F11BC680-127E-41A7-89DA-6ACD36FCFCFA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
