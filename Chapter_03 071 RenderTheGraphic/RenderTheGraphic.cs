@@ -12,14 +12,15 @@ namespace Petzold.RenderTheGraphic
         [STAThread]
         public static void Main()
         {             
-            Application app = new Application(); //
-            app.Run(new RenderTheGraphic()); //   
+            Application app = new Application(); 
+            app.Run(new RenderTheGraphic());
         }         
         public RenderTheGraphic()
         {
-            Title = "Render the Graphic"; //     
-            SimpleEllipse elips = new SimpleEllipse(); //             
-            Content = elips; // 
+
+            Title = "Render the Graphic"; //Задаем заголовок окна
+            SimpleEllipse elips = new SimpleEllipse(); //Создаем экземпляр нашего эллипса  
+            Content = elips; // Задаем содержимое окна
         }     
     } 
 } 
