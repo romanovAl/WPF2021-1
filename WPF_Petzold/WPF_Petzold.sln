@@ -34,6 +34,14 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter_01 020 InheritTheAp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter_01 027 InheritTheWin", "..\Chapter_01 027 InheritTheWin\Chapter_01 027 InheritTheWin.csproj", "{226C2B5E-E072-4779-837B-BDEC4F800F69}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter_03 061 ShowMyFace", "..\Chapter_03 061 ShowMyFace\Chapter_03 061 ShowMyFace.csproj", "{DCB13D94-972B-4904-B557-274DF75994D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter_05 106 DesignAButton", "..\Chapter_05 106 DesignAButton\Chapter_05 106 DesignAButton.csproj", "{49B70A8E-0E00-4732-995B-236F15A0F793}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter_06 127 SpanTheCells", "..\Chapter_06 127 SpanTheCells\Chapter_06 127 SpanTheCells.csproj", "{5834DF94-737B-4D82-A628-FC5A21AE70A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter_04 078 ImageTheButton", "..\Chapter_04 078 ImageTheButton\Chapter_04 078 ImageTheButton.csproj", "{CE1E7CF9-7501-4598-B1C4-1E50044396D8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -104,6 +112,22 @@ Global
 		{226C2B5E-E072-4779-837B-BDEC4F800F69}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{226C2B5E-E072-4779-837B-BDEC4F800F69}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{226C2B5E-E072-4779-837B-BDEC4F800F69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCB13D94-972B-4904-B557-274DF75994D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCB13D94-972B-4904-B557-274DF75994D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCB13D94-972B-4904-B557-274DF75994D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCB13D94-972B-4904-B557-274DF75994D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49B70A8E-0E00-4732-995B-236F15A0F793}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49B70A8E-0E00-4732-995B-236F15A0F793}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49B70A8E-0E00-4732-995B-236F15A0F793}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49B70A8E-0E00-4732-995B-236F15A0F793}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5834DF94-737B-4D82-A628-FC5A21AE70A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5834DF94-737B-4D82-A628-FC5A21AE70A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5834DF94-737B-4D82-A628-FC5A21AE70A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5834DF94-737B-4D82-A628-FC5A21AE70A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE1E7CF9-7501-4598-B1C4-1E50044396D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE1E7CF9-7501-4598-B1C4-1E50044396D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE1E7CF9-7501-4598-B1C4-1E50044396D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE1E7CF9-7501-4598-B1C4-1E50044396D8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
