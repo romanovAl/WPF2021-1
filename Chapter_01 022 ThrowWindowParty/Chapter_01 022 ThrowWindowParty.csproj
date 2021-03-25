@@ -36,7 +36,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="TrrowWindowParty.cs" />
+    <Compile Include="ThrowWindowParty.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="PresentationCore" />
