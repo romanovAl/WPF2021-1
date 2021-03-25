@@ -44,5 +44,8 @@
   <ItemGroup>
     <Compile Include="ImageTheButton.cs" />
   </ItemGroup>
+  <ItemGroup>
+    <Resource Include="test.jpg" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
