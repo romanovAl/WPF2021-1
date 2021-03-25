@@ -20,7 +20,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter_01 025 MyWindow", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter_02 042 GradiateTheBrush", "..\Chapter_02 042 GradiateTheBrush\Chapter_02 042 GradiateTheBrush.csproj", "{31403D9F-BBDD-4AAA-AFDC-A081CD2C22C3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ñhapter_01_22_TrrowWindowParty", "..\Ñhapter_01_22_TrrowWindowParty\Ñhapter_01_22_TrrowWindowParty.csproj", "{B898BE62-0A50-4185-BE00-DE460F5D384D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ñhapter_01 22 TrrowWindowParty", "..\Ñhapter_01_22_TrrowWindowParty\Ñhapter_01 22 TrrowWindowParty.csproj", "{B898BE62-0A50-4185-BE00-DE460F5D384D}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter_02 048 CircleTheRainbow", "..\Chapter_02 048 CircleTheRainbow\Chapter_02 048 CircleTheRainbow.csproj", "{09D9871C-C1AC-4DFF-AB18-A21193C8859F}"
 EndProject
@@ -43,6 +43,7 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter_06 127 SpanTheCells", "..\Chapter_06 127 SpanTheCells\Chapter_06 127 SpanTheCells.csproj", "{5834DF94-737B-4D82-A628-FC5A21AE70A1}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter_04 078 ImageTheButton", "..\Chapter_04 078 ImageTheButton\Chapter_04 078 ImageTheButton.csproj", "{CE1E7CF9-7501-4598-B1C4-1E50044396D8}"
+EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter_04 090 UriDialog", "..\Chapter_04 090 UriDialog\Chapter_04 090 UriDialog.csproj", "{9BF4EF95-AD7E-4B80-854F-F316F5821439}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter_03 066 FormatTheText", "..\Chapter_03 066 FormatTheText\Chapter_03 066 FormatTheText.csproj", "{9CF4F47A-148F-49EA-B9FD-8B19290271AB}"
