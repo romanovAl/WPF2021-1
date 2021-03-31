@@ -14,6 +14,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter_04 077 FormatTheBut
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter_03 071 RenderTheGraphic", "..\Chapter_03 071 RenderTheGraphic\Chapter_03 071 RenderTheGraphic.csproj", "{F11BC680-127E-41A7-89DA-6ACD36FCFCFA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter_06 136 ScrollCustomColors", "..\Chapter_06 136 ScrollCustomColors\Chapter_06 136 ScrollCustomColors.csproj", "{DF8238AB-D6BB-4BB5-8261-6675D13EF892}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -44,6 +46,10 @@ Global
 		{F11BC680-127E-41A7-89DA-6ACD36FCFCFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F11BC680-127E-41A7-89DA-6ACD36FCFCFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F11BC680-127E-41A7-89DA-6ACD36FCFCFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF8238AB-D6BB-4BB5-8261-6675D13EF892}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF8238AB-D6BB-4BB5-8261-6675D13EF892}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF8238AB-D6BB-4BB5-8261-6675D13EF892}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF8238AB-D6BB-4BB5-8261-6675D13EF892}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
