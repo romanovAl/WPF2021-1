@@ -21,7 +21,7 @@ namespace Petzold.ShadowTheStylus
             new Vector(widthStroke / 4, widthStroke / 4); 
         
         // Дополнительные поля для оераций перемещения стилуса
-        Canvas canv;
+        InkCanvas canv;
         Polyline polyStylus, polyShadow;
         bool isDrawing;
 
@@ -35,7 +35,7 @@ namespace Petzold.ShadowTheStylus
         public ShadowTheStylus()
         {
             Title = "Shadow the Stylus"; // Создание панели Canvas для содержимого окна
-            canv = new Canvas();
+            canv = new InkCanvas();
             Content = canv;
         }
 
